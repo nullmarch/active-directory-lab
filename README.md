@@ -11,7 +11,7 @@ A hands-on Active Directory lab built on Windows Server 2025, demonstrating doma
 ---
 ## GPO Documentation
 
-- [Screen Lock and Wallpaper Policies](01-gpo-screen-lock-wallpaper.md)
-- [Password and Account Lockout Policy](02-password-lockout-policy.md)
+- [Screen Lock and Wallpaper Policies](docs/01-gpo-screen-lock-wallpaper.md)
+- [Password and Account Lockout Policy](docs/02-password-lockout-policy.md)
 
 
